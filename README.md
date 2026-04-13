@@ -13,7 +13,7 @@ and exports either word-level or query-level aggregated features.
 ## Project Structure
 
 ```text
-.
+
 ├── preprocess.py
 ├── README.md
 └── data/
