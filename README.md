@@ -4,15 +4,13 @@ ExPerT: Personalizing LLM Responses to Users' Domain Expertise via Query-Wise Se
 Yeji Park, Jiwon Tark, and Taesik Gong  
 ACL'26: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics  
 
+![Main Figure](./MainFigure.png)
+
 ## Overview
 
 This repository contains preprocessing code for keystroke-level query typing data.
 The main script, `preprocess.py`, reads a raw CSV file, builds key-pair timing features,
 and exports either word-level or query-level aggregated features.
-
-## Main Figure
-
-![Main Figure](./MainFigure.png)
 
 ## Project Structure
 
