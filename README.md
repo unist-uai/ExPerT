@@ -10,6 +10,10 @@ This repository contains preprocessing code for keystroke-level query typing dat
 The main script, `preprocess.py`, reads a raw CSV file, builds key-pair timing features,
 and exports either word-level or query-level aggregated features.
 
+## Main Figure
+
+![Main Figure](./MainFigure.png)
+
 ## Project Structure
 
 ```text
