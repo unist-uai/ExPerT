@@ -26,6 +26,8 @@ and exports either word-level or query-level aggregated features.
 
 ## Raw Key Data
 
+Due to participants declining public release, data from participant number `7`, `36`, `37`, and `38` are not included in this dataset.
+
 `raw_keydata.csv` includes at these columns:
 
 - `user_id`
